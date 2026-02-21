@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Addicted To You (Lyric Video)",
+  "base_artist": "Avicii",
+  "createdAt": "2026-02-21T13:58:41.068282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Addicted to You",
+      "artist": "Kim Wilde",
+      "has_synced": false,
+      "path": "select/01_Addicted_to_You_Kim_Wilde.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Addicted to You",
+      "artist": "Patti LaBelle",
+      "has_synced": true,
+      "path": "select/02_Addicted_to_You_Patti_LaBelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Addicted to You",
+      "artist": "Alec Empire",
+      "has_synced": true,
+      "path": "select/03_Addicted_to_You_Alec_Empire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Addicted To You",
+      "artist": "Alec Empire",
+      "has_synced": false,
+      "path": "select/04_Addicted_To_You_Alec_Empire.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Addicted to You",
+      "artist": "Avicii feat. Audra Mae",
+      "has_synced": false,
+      "path": "select/05_Addicted_to_You_Avicii_feat._Audra_Mae.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Addicted To You",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/06_Addicted_To_You_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Addicted to You (ARBADEL Radio Mix)",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/07_Addicted_to_You_(ARBADEL_Radio_Mix)_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Addicted To You",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/08_Addicted_To_You_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Addicted To You - Radio Version",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/09_Addicted_To_You_-_Radio_Version_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Addicted to you",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/10_Addicted_to_you_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Addicted To You - Avicii By Avicii",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/11_Addicted_To_You_-_Avicii_By_Avicii_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Addicted to You",
+      "artist": "Shakira",
+      "has_synced": true,
+      "path": "select/12_Addicted_to_You_Shakira.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Addicted to You - David Guetta Remix",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/13_Addicted_to_You_-_David_Guetta_Remix_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Addicted To You (David Guetta Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/14_Addicted_To_You_(David_Guetta_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Addicted To You (Albin Myers Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/15_Addicted_To_You_(Albin_Myers_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Addicted To You (Ashley Wallbridge Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/16_Addicted_To_You_(Ashley_Wallbridge_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Addicted to You (Avicii by Avicii)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/17_Addicted_to_You_(Avicii_by_Avicii)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Addicted To You (Bent Collective Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/18_Addicted_To_You_(Bent_Collective_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Addicted to You (David Guetta remix)",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/19_Addicted_to_You_(David_Guetta_remix)_Avicii.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Addicted To A Memory",
+      "artist": "Zedd feat. Bahari",
+      "has_synced": true,
+      "path": "select/20_Addicted_To_A_Memory_Zedd_feat._Bahari.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Addicted To a Memory (feat. Bahari)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/21_Addicted_To_a_Memory_(feat._Bahari)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Addicted to Love",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/22_Addicted_to_Love_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Addicted To Power",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/23_Addicted_To_Power_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Addicted to Self Mutilation",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/24_Addicted_to_Self_Mutilation_M83.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Addicted To Chaos",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/25_Addicted_To_Chaos_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Addicted to Love",
+      "artist": "Robert Palmer",
+      "has_synced": true,
+      "path": "select/26_Addicted_to_Love_Robert_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Wake Me Up [Addicted To Bass Winter 2013 Edit]",
+      "artist": "Avicii feat. Aloe Blacc",
+      "has_synced": true,
+      "path": "select/27_Wake_Me_Up_[Addicted_To_Bass_Winter_2013_Edit]_Avicii_feat._Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Addicted To Love",
+      "artist": "Alex Clare",
+      "has_synced": true,
+      "path": "select/28_Addicted_To_Love_Alex_Clare.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Addicted To Self Mutilation (Album Version)",
+      "artist": "M83",
+      "has_synced": false,
+      "path": "select/29_Addicted_To_Self_Mutilation_(Album_Version)_M83.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Addicted To That Rush - Remastered Version",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/30_Addicted_To_That_Rush_-_Remastered_Version_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Addicted To That Rush - Remastered Version (Remastered Version)",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/31_Addicted_To_That_Rush_-_Remastered_Version_(Remastered_Version)_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Addicted to That Rush",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/32_Addicted_to_That_Rush_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Addicted to That Rush - Live in Tokyo, Japan, February 5, 2002",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/33_Addicted_to_That_Rush_-_Live_in_Tokyo,_Japan,_February_5,_2002_Mr._Big.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Addicted to That Rush (live)",
+      "artist": "Mr. Big",
+      "has_synced": true,
+      "path": "select/34_Addicted_to_That_Rush_(live)_Mr._Big.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Addicted To You",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_Addicted_To_You_Avicii.txt"
+    }
+  ]
+}
